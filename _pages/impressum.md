@@ -8,7 +8,7 @@ include_in_header: false
 
 ## Angaben gemäß § 5 TMG
 
-**Weber Braun Cappello picaboo GbR**<br/>
+**Weber Braun Cappello PICABOO GbR**<br/>
 Flugplatzstraße 78<br/>
 90768 Fürth
 

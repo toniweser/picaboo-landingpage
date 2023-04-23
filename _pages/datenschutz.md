@@ -103,7 +103,7 @@ aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte i
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website bzw. unserer App ist:
 
-Weber Braun Cappello picaboo GbR \
+Weber Braun Cappello PICABOO GbR \
 Flugplatzstraße 78 \
 90768 Fürth
 
