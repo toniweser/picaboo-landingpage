@@ -374,11 +374,11 @@ Sentry Inc., San Francisco, 132 Hawthorne St, USA.
 
 Die Verwendung von Sentry erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Im Rahmen der Vertragserfüllung
 benötigen wir verlässliche und effiziente Tools für eine möglichst schnelle, zuverlässige und effiziente Bearbeitung von
-auftretenden Fehlern. Im Zuge dieser Verarbeitung werden anonymisierte Logs der App-Nutzung an Sentry übermittelt. DIese
+auftretenden Fehlern. Im Zuge dieser Verarbeitung werden anonymisierte Logs der App-Nutzung an Sentry übermittelt. Diese
 Logs sind nicht personenbezogenen und mit einer anonymisierten ID verbunden.
 
 Weitere Informationen erhalten Sie in der Datenschutzerklärung von
-Tidio: [https://sentry.io/privacy/](https://sentry.io/privacy/).
+Sentry: [https://sentry.io/privacy/](https://sentry.io/privacy/).
 
 #### Auftragsverarbeitung
 
@@ -404,6 +404,26 @@ Wenn Ihr Browser Font Awesome nicht unterstützt, wird eine Standardschrift von 
 
 Weitere Informationen zu Font Awesome finden Sie und in der Datenschutzerklärung von Font Awesome
 unter: [https://fontawesome.com/privacy](https://fontawesome.com/privacy).
+
+### TelemetryDeck
+
+Zur Analyse von Nutzungsdaten benutzen wir das Analyse-Tool TelemetryDeck (nachfolgend „TelemetryDeck“). Anbieter ist
+die TelemetryDeck GmbH, Von-der-Tann-Str. 54, 86159 Augsburg. Die Daten werden ausschließlich anonym erfasst und lassen
+keinerlei Rückschluss auf personenbezogene Informationen zu.
+
+Folgende Informationen werden von TelemetryDeck erfasst:
+
+- Anzahl und Name der verwendeten Filter
+- Anzahl der Speicherungen
+- Analysedaten über Sessions (Starten neuer Sessions, Beenden von Sessions, Erstmaliger Start der App, Öffnen von Views,
+  etc.)
+
+Die Verwendung von TelemetryDeck erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Im Rahmen der Vertragserfüllung
+benötigen wir verlässliche und effiziente Tools zur Erfassung von Analyse-Daten. Im Zuge dieser Verarbeitung werden
+Analyse-Daten an TelemetryDeck übermittelt. Diese Daten sind nicht personenbezogenen.
+
+Informationen zur Datenverarbeitung der TelemetryDeck GmbH finden Sie in der Datenschutzerkärung von TelemtryDeck unter:
+[https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/).
 
 ## 7. eCommerce und Zahlungs­anbieter
 
