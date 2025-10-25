@@ -17,11 +17,6 @@ Designed for GitHub Pages for super easy set up.
 
 ✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
 
-<img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
-
-
-
-
 ## Quick Start
 
 ### Step 1: Fork this repo.
