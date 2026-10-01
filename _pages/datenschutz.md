@@ -61,7 +61,7 @@ Wir hosten die Inhalte unserer Website bei folgendem Anbieter:
 
 ### GitHub Inc.
 
-Anbieter ist die GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA  (nachfolgend GitHub).
+Anbieter ist die GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (nachfolgend GitHub).
 
 Wenn Sie unsere Website besuchen, werden Ihre personenbezogenen Daten auf den Servern von GitHub verarbeitet. Hierbei
 können auch personenbezogene Daten an das Mutterunternehmen von GitHub in die USA übermittelt werden. Die
@@ -455,9 +455,9 @@ Vertrags oder vorvertraglicher Maßnahmen gestattet.
 Wir binden Zahlungsdienste von Drittunternehmen in unserer App ein. Wenn Sie einen Kauf bei uns tätigen, werden Ihre
 Zahlungsdaten (z. B. Name, Zahlungssumme, Kontoverbindung, Kreditkartennummer) vom Zahlungsdienstleister zum Zwecke der
 Zahlungsabwicklung verarbeitet. Für diese Transaktionen gelten die jeweiligen Vertrags- und Datenschutzbestimmungen der
-jeweiligen Anbieter. Der Einsatz der Zahlungsdienstleister erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (
-Vertragsabwicklung) sowie im Interesse eines möglichst reibungslosen, komfortablen und sicheren Zahlungsvorgangs (Art. 6
-Abs. 1 lit. f DSGVO). Soweit für bestimmte Handlungen Ihre Einwilligung abgefragt wird, ist Art. 6 Abs. 1 lit. a DSGVO
+jeweiligen Anbieter. Der Einsatz der Zahlungsdienstleister erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO
+(Vertragsabwicklung) sowie im Interesse eines möglichst reibungslosen, komfortablen und sicheren Zahlungsvorgangs (Art.
+6 Abs. 1 lit. f DSGVO). Soweit für bestimmte Handlungen Ihre Einwilligung abgefragt wird, ist Art. 6 Abs. 1 lit. a DSGVO
 Rechtsgrundlage der Datenverarbeitung; Einwilligungen sind jederzeit für die Zukunft widerrufbar.
 
 Folgende Zahlungsdienste / Zahlungsdienstleister setzen wir ein:
@@ -466,3 +466,9 @@ Folgende Zahlungsdienste / Zahlungsdienstleister setzen wir ein:
 
 Anbieter des Zahlungsdienstes ist Apple Inc., Infinite Loop, Cupertino, CA 95014, USA. Die Datenschutzerklärung von
 Apple finden Sie unter: [https://www.apple.com/legal/privacy/de-ww/](https://www.apple.com/legal/privacy/de-ww/).
+
+#### Google Play
+
+Anbieter des Zahlungsdienstes ist Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Die
+Datenschutzerklärung von Google finden Sie
+unter: [https://policies.google.com/privacy](https://policies.google.com/privacy).
